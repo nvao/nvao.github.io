@@ -1,0 +1,70 @@
+body{
+    background-color: black;
+}
+
+.KIT{
+    font-size:25px ;
+    font-family:monospace ;
+    display: grid;
+}
+img{
+   width: 450px;
+   height: 200px; 
+}
+h2{
+    color: aquamarine;
+    text-align: center;
+    font-size:40px ;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+p{
+color: white;
+font-family:monospace ;
+font-size: 25px;
+
+}
+body{
+    background-image: url("fondo3.gif");
+background-size: 100%;
+background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+img{
+    width: 200px;
+    height: 200px; 
+    position: relative;
+    right: -560px;
+    border-radius: 20px 0;
+}
+.KIT{
+    font-size: 50px;
+    color: blueviolet;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+}
+.di{
+    position: relative;
+    right: -560px;
+    border-radius: 40px 0;
+}
+ div{
+ font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color:palevioletred;
+     font-size: 35px;
+ }
+
+ .uno{
+    color: white;
+    font-family:monospace ;
+    font-size: 25px;
+    border: 10px dotted yellow;
+ }
+
+ .dos{
+     color: white;
+     font-family: 'Times New Roman', Times, serif;
+     font-size: 25px;
+     border: 10px ridge orange;
+ }
